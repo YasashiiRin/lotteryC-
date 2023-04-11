@@ -1,0 +1,30 @@
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\bin\Debug\NguyenVanTuan_XoSo.exe.config
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\bin\Debug\NguyenVanTuan_XoSo.exe
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\bin\Debug\NguyenVanTuan_XoSo.pdb
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.FrmTuan.resources
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.Properties.Resources.resources
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.csproj.GenerateResource.cache
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.exe
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.pdb
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.Form1.resources
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.Form2.resources
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.CauHinh.resources
+C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.Login.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\bin\Debug\NguyenVanTuan_XoSo.exe.config
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\bin\Debug\NguyenVanTuan_XoSo.exe
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\bin\Debug\NguyenVanTuan_XoSo.pdb
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.CauHinh.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.Form1.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.Form2.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.FrmTuan.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.Login.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.Properties.Resources.resources
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.csproj.GenerateResource.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.exe
+C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\NguyenVanTuan_XoSo\NguyenVanTuan_XoSo\obj\Debug\NguyenVanTuan_XoSo.pdb
