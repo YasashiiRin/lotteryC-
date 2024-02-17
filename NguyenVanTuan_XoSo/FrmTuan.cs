@@ -27,7 +27,7 @@ namespace NguyenVanTuan_XoSo
         int set_tg_roll = 2;
         Random rd
             = new Random();
-        string tenfile = @"C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\ReadFile\Xoso.txt";
+        string tenfile = @"C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\ReadFile\Xoso.txt";
 
         private void button18_Click(object sender, EventArgs e)
         {

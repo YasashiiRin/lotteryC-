@@ -17,7 +17,7 @@ namespace NguyenVanTuan_XoSo
         {
             InitializeComponent();
         }
-        string tenfile = @"C:\Users\FPT SHOP\Documents\HK_I_N42022_2023\Lập trinfhh Window\ReadFile\Xoso.txt";
+        string tenfile = @"C:\Users\HP\Documents\HK_I_N42022_2023\Lập trinfhh Window\ReadFile\Xoso.txt";
         private void button1_Click(object sender, EventArgs e)
         {
 
